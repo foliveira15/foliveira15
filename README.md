@@ -1,11 +1,11 @@
 ### Hello there, I'm Fernando - aka [Nandexxx][website] 👋
 
 ## I'm a tech professional passionate about network, photography, electronics design, IoT and content creator.
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a lot of IoT projects!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I'm also a photographer!
 
 ### Connect with me:
 
