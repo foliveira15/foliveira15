@@ -42,7 +42,7 @@
 
 <img align="left" alt="foliveira15's Github Stats" src="https://github-readme-stats.vercel.app/api?username=foliveira15&show_icons=true&hide_border=true&count_private=true" />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foliveira15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="foliveira15's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foliveira15&layout=compact" />
 
 
 [website]: http://www.ndxbrands.com
